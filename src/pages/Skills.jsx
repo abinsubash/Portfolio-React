@@ -7,7 +7,7 @@ const Skills = () => {
     console.log("Animation completed!");
   };
   return (
-    <div className="fixed top-0 left-0 w-full h-full bg-gray-900">
+    <div className="fixed top-0 left-0 w-full h-fullfrom-gray-900 to-black">
             <BlurText
           text="My Skills"
           delay={150}
